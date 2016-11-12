@@ -1,0 +1,27 @@
+{
+  "name": "awesome-podcasts",
+  "version": "1.0.0",
+  "description": "Podcasts for hustlers",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Indrashish Ghosh",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-google-spreadsheets": "^1.2.0",
+    "gulp-hb": "^2.6.5",
+    "gulp-jsbeautify": "^0.1.1",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-streamify": "^1.0.2",
+    "handlebars": "^4.0.5",
+    "browser-sync": "^2.17.5",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
